@@ -139,7 +139,8 @@ http://localhost:5173
 
 ## Screenshot
 
-_Add a screenshot of the application here._
+Home Page
+![React Poster Home Page](image.png)
 
 ---
 
